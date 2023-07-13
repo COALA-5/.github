@@ -7,7 +7,7 @@
 - repository 이름 규칙은 다음과 같습니다. PJT/PAR/ETC_기관_환경_프로젝트이름. 예를들어, PJT_NSR_AVR_Kyber
   (PJT : project, par : paper, etc : 기타)
 
-- 규칙은 계속 확장할예정.
+- 규칙은 계속 확장할예정입니다.
 
 <!--
 
