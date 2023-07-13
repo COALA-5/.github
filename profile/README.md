@@ -4,7 +4,7 @@
 
 ## 규칙
 
-- repository 이름 규칙은 다음과 같습니다. [과제/논문/공모전/기타][환경]_프로젝트이름. 예를들어, [암호포럼][8-bit_AVR]_Kyber
+- repository 이름 규칙은 다음과 같습니다. PROJECT/PAPER/ETC_환경_프로젝트이름. 예를들어, PROJECT_AVR_Kyber
 
 - 규칙은 계속 확장할예정...
 
