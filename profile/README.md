@@ -1,13 +1,13 @@
 # COALAB main-storage
 
-이 협업공간은 COALAB의 코드 저장소입니다.. 규칙을 잘 지켜주시기 바랍니다.
+이 협업공간은 COALAB의 코드 저장소입니다. 규칙을 잘 지켜주시기 바랍니다.
 
 ## 규칙
 
 - repository 이름 규칙은 다음과 같습니다. PJT/PAR/ETC_기관_환경_프로젝트이름. 예를들어, PJT_NSR_AVR_Kyber
   (PJT : project, par : paper, etc : 기타)
 
-- 규칙은 계속 확장할예정...
+- 규칙은 계속 확장할예정.
 
 <!--
 
